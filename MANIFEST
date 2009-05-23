@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Finance-Currency-Convert-Custom.t
+lib/Finance/Currency/Convert/Custom.pm

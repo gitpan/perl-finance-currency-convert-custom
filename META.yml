@@ -1,0 +1,13 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX Sorry for small description. I'll make a better info soon. XXXXX#
+name:         Finance-Currency-Convert-Custom
+version:      1.00
+version_from: lib/Finance/Currency/Convert/Custom.pm
+installdirs:  site
+requires:
+    Finance::Currency::Convert:              0
+    LWP::UserAgent:			     0
+
+distribution_type: module
+generated_by: Hands ;)
+license: perl
